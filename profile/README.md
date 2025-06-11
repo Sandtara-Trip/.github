@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 Capstone Project Coding Camp 2025 <br/>
-  💼 Kelompok CC25-CF100 – Powered by DBS Foundation
+  💼 Tim CC25-CF100 – Powered by DBS Foundation
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 | No | Nama                    | Role                              | Cohort ID      | Learning Path                |
 |----|-------------------------|-----------------------------------|----------------|------------------------------|
 | 1  | M. Riki Hidayat         | Backend API & Integrator          | FC013D5Y1624   | Front-End dan Back-End Dev   |
-| 2  | Ryanza Aufa Yansa       | ML - Rekomendasi Wisata           | MC295D5Y0579   | Machine Learning Engineer    |
-| 3  | Maulana Ridhwan Riziq   | ML - Prediksi Cuaca               | MC295D5Y1155   | Machine Learning Engineer    |
-| 4  | Rifqi Fadhlurrohman     | ML - Rekomendasi Hotel            | MC006D5Y1237   | Machine Learning Engineer    |
-| 5  | Wahyu Rizqi Amalia      | Frontend-Admin Page Developer              | FC525D5X0021   | Front-End dan Back-End Dev   |
-| 6  | Nabila Naurotul Ummah   | Frontend-User Page Developer     | FC013D5X1555   | Front-End dan Back-End Dev   |
+| 2  | Nabila Naurotul Ummah   | Frontend-User Page Developer      | FC013D5X1555   | Front-End dan Back-End Dev   |
+| 3  | Wahyu Rizqi Amalia      | Frontend-Admin Page Developer     | FC525D5X0021   | Front-End dan Back-End Dev   |
+| 4  | Ryanza Aufa Yansa       | ML - Rekomendasi Wisata           | MC295D5Y0579   | Machine Learning Engineer    |
+| 5  | Maulana Ridhwan Riziq   | ML - Prediksi Cuaca               | MC295D5Y1155   | Machine Learning Engineer    |
+| 6  | Rifqi Fadhlurrohman     | ML - Rekomendasi Hotel            | MC006D5Y1237   | Machine Learning Engineer    |
 
 </div>
 
