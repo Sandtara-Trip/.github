@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sandtara-Trip/.github/blob/main/assets/sandtara-banner.png" height="300px" />
+  <img src="https://github.com/Sandtara-Trip/.github/blob/main/assets/bg.jpg" height="300px" />
 </div>
 
 <h1 align="center">SANDTARA - "Smart Tourism & Local Explorer"</h1>
@@ -50,7 +50,7 @@
 - 🧭 Rekomendasi wisata, hotel, dan makanan khas dengan Machine Learning
 - 🧾 Sistem pemesanan online (booking)
 - 📩 Tiket digital dikirim ke email (Nodemailer)
-- 🗺️ Peta interaktif lokasi destinasi dan fasilitas sekitar
+- 🗺️ Peta interaktif lokasi destinasi dan hotel
 - 📝 Ulasan pengguna pasca pemesanan
 - 🛠️ Panel Admin: input konten, hapus user, rekap Excel
 
@@ -66,9 +66,10 @@
 
 ## 📁 Repositori Terkait
 
-- 🔧 [Backend Repository](#)  
-- 🎨 [Frontend Repository](#)  
-- 🧠 [Machine Learning Models](#)
+- 🔧 [Backend Repository](https://github.com/Sandtara-Trip/Backend)  
+- 🎨 [Frontend Repository](https://github.com/Sandtara-Trip/Frontend)  
+- 🧠 [Machine Learning Models](https://github.com/Sandtara-Trip/machine-learning)
+- 🔧 [Dataset](https://github.com/Sandtara-Trip/Dataset-Sandtara)
 
 ---
 > Terima kasih telah mengunjungi dokumentasi proyek kami. Sandtara Trip hadir sebagai solusi pariwisata modern yang menggabungkan teknologi, data, dan budaya lokal dalam satu platform.
